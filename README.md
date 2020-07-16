@@ -1,4 +1,4 @@
-# playlist-maker-spotify
+# Playlist maker for Spotify
 This python program uses the Spotify API and spotipy to create a playlist based on your favorite songs. 
 
 Steps:
